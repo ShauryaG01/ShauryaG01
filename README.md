@@ -11,7 +11,7 @@ Hi, I'm Shaurya Gupta, a passionate self-taught full stack web developer and a f
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-  <img align="right" alt="GIF" src="https://c.tenor.com/YAbtl2wpMrUAAAAd/silicon-valley-i-just-realized-i-havent-left-the-house-in-six-days.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://c.tenor.com/YAbtl2wpMrUAAAAd/silicon-valley-i-just-realized-i-havent-left-the-house-in-six-days.gif?raw=true" width="500" height="280" />
   
 - 💼 any freelance work? do reach, [email](mailto:gupta.shaurya001@gmail.com) :)
 - 💬 ask me about anything, I am happy to help;
