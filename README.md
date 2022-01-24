@@ -16,7 +16,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💼 any freelance work? do reach, [email](mailto:gupta.shaurya001@gmail.com) :)
 - 💬 ask me about anything, I am happy to help;
 
-**languages and tools:**  
+**Technologies:**  
 
 ![reactjs](https://img.shields.io/badge/-reactjs-333333?style=flat&logo=react)
 ![flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
