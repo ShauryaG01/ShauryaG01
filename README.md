@@ -1,9 +1,6 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
 
-//<a href="https://www.linkedin.com/in/shaurya-gupta29/">
-  //<img align="left" alt="Shaurya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-//</a>
 
 <br />
 <br />
@@ -14,7 +11,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://c.tenor.com/YAbtl2wpMrUAAAAd/silicon-valley-i-just-realized-i-havent-left-the-house-in-six-days.gif?raw=true" width="500" height="250" />
   
-//- 💼 any freelance work? do reach, [email](mailto:gupta.shaurya001@gmail.com) :)
 - 💬 ask me about anything, I am happy to help;
 
 **Technologies:**  
